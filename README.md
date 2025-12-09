@@ -66,8 +66,9 @@ Pré-requisitos: Node.js instalado e ambiente Expo configurado.
 
 1. Clone o repositório:
 
-git clone [https://github.com/SEU_USUARIO/receitas-app-assessment.git](https://github.com/SEU_USUARIO/receitas-app-assessment.git)
-cd receitas-app-assessment
+git clone [https://github.com/Lucas-Calo/receitas-app-AT-DR3.git](https://github.com/Lucas-Calo/receitas-app-AT-DR3.git)
+
+cd receitas-app-AT-DR3
 
 
 2. Instale as dependências:
